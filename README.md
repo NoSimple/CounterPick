@@ -1,2 +1,2 @@
-# CounterPick
+# Weather forecast
 Test project
